@@ -1,0 +1,12 @@
+﻿  task5.c
+c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task5.c(11): warning C4013: fun: нет определения; предполагается "extern" с возвратом типа "int"
+  task4.c
+c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task4.c(11): warning C4013: fun: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task4.c(19): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task3.c
+c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task3.c(10): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task3.c(10): note: рекомендуется использовать "%lf" в строке форматирования
+c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task3.c(15): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  c:\users\rufar\onedrive\documents\visual studio 2015\projects\task1.c\task1.c\task3.c(15): note: рекомендуется использовать "%lf" в строке форматирования
+  Создание кода...
+  task1.c.vcxproj -> c:\users\rufar\onedrive\documents\visual studio 2015\Projects\task1.c\Debug\task1.c.exe
